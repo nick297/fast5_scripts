@@ -15,8 +15,10 @@ usage
 nanoStats
 =========
 
-Simple read length and quality statistics from fastq file(s). Can also output a histogram.
+Simple read length and quality statistics from fastq file(s). Can also output a histogram. One or more fastq files can be used.
 
+usage
+-----
 	nanoStats.py out.fq [out1.fq out2.fq...]
 
 
