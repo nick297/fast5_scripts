@@ -1,6 +1,6 @@
 # fast5_scripts
 
-Simple python scripts for working with nanopore data.
+Simple python scripts for working with nanopore data. Other software is available and recommended including poretools and poRe. Some code shamelessly borrowed from poretools.
 
 fast5Watcher
 ============
